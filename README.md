@@ -52,7 +52,7 @@ aptos move compile
 
 3. Deploy the contract:
 ```bash
-aptos move publish
+aptos move deploy
 ```
 
 ## Testing
@@ -103,3 +103,5 @@ Feel free to submit issues and enhancement requests!
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+
+CONTRACT ADDRESS/TRANSACTION HASH: 0x10c5e5cd9482ec8c8476dc3b1f7a0c29bb618a18d1abd29ac8491a89570a28b1
